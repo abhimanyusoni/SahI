@@ -1,0 +1,192 @@
+@media screen and (max-width: 1601px){
+    .live_orders_main .main_content .content_titlebar .heading h2{font-size: 34px;}
+    .live_orders_main .main_content .content_titlebar .heading h2::after{width: 12px; height: 12px; right: -30px; top: 12px;}
+    .live_orders_main .main_content .content_titlebar .search_bar input {width: 320px;height: 42px; background-size: 17px;}   
+    .live_orders_main .main_content .content_titlebar{padding: 26px 45px;} 
+    .live_orders_main .left_sidebar{padding: 28px 0 92px 30px;}
+    .live_orders_main .left_sidebar .brand_logo{margin-bottom: 40px;}
+    .live_orders_main .main_content .main_cont_wrapper{padding: 25px 45px; margin-top: 95px;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one{width: 170px;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one .count{width: 30px; height: 20px; font-size: 12px; border-radius: 6px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{width: 550px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details{width: calc(100% - 580px);}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .outlet_img{margin-right: 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .order_id h3{font-size: 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table td,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr th:last-child{font-size: 18px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .instruction{padding-left: 18px; padding-right: 18px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr .payment_status button{height: 38px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions a:not(:last-child){margin-right: 12px;}
+    .live_orders_main .left_sidebar .owner_dtls .owner_name .name{font-size: 16px;}
+    .live_orders_main .left_sidebar .owner_dtls{padding-top: 14px; padding-bottom: 14px;}
+}
+
+@media screen and (max-width: 1367px){
+    .live_orders_main .main_content .content_titlebar {padding: 20px 30px;}
+    .live_orders_main .main_content .content_titlebar .heading h2 {font-size: 28px}
+    .live_orders_main .main_content .content_titlebar .heading h2::after {width: 10px;height: 10px;right: -26px;top: 10px;}
+    .live_orders_main .main_content .content_titlebar .search_bar input {width: 300px;height: 38px;background-size: 15px; padding-left: 48px; font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper{margin-top: 80px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper{margin-top: 28px;}
+    .live_orders_main .main_content .main_cont_wrapper{padding: 25px 32px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{width: 470px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{padding: 20px 20px 20px 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .orderdtl h4{font-size: 16px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details{width: calc(100% - 490px); padding: 20px 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc .order_desc_one .heading,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc .order_desc_one p{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc{margin-bottom: 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .instruction{padding-left: 14px; padding-right: 14px; padding-top: 10px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table thead th, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot th{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table td, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr th:last-child{font-size: 16px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .status .whatstatus,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr .payment_status button{height: 35px; font-size: 14px; width: 120px; border-radius: 6px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .order_id h3{font-size: 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .order_id .item_rs p,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .order_id .item_rs span,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .status .time{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot th, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot td{padding-top: 10px; padding-bottom: 0;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .instruction h4{font-size: 14px; margin-top: 5px; margin-bottom: 12px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .instruction p{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions a {width: 110px;height: 38px; font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions{margin-bottom: 32px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject a.acceptit{height: 55px; border-radius: 6px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject a.reject{margin-right: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .outlet_img img{width: 55px; height: 55px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .outlet_img {margin-right: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by .short_one:not(:first-child){margin-right: 40px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by div.head{width: 120px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by .short_one,
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status .head{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status span{height: 3px;}
+}
+
+@media screen and (max-width: 1281px){
+    .live_orders_main .left_sidebar{width: 220px; padding: 16px 0 10px 24px;}
+    .live_orders_main .main_content{width: calc(100% - 220px);}
+    .live_orders_main .main_content .content_titlebar .heading h2 {font-size: 24px}
+    .live_orders_main .main_content .content_titlebar .heading h2::after {width: 9px;height: 9px;right: -22px; top: 8px;}
+    .live_orders_main .main_content .content_titlebar .search_bar input {width: 260px;height: 34px;background-size: 13px;padding-left: 45px;font-size: 12px;}
+    .live_orders_main .left_sidebar .brand_logo {margin-bottom: 30px}
+    .live_orders_main .main_content .content_titlebar{padding: 20px 22px; width: calc(100% - 220px);}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one{width: 150px;}
+    .live_orders_main .main_content .main_cont_wrapper{margin-top: 72px;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one.active::after{height: 3px; bottom: -3px;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one a{font-size: 13px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{width: 400px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one{padding: 10px 10px 10px 18px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .img{margin-right: 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .img img{width: 55px; height: 55px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .orderdtl h4{font-size: 14px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .orderdtl .item_rs{margin-top: 6px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .orderdtl .item_rs p,
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets .outlet_one .orderdtl .item_rs span{font-size: 12px;}
+    .live_orders_main .main_content .main_cont_wrapper{padding: 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details{width: calc(100% - 420px);}
+    .live_orders_main .left_sidebar .owner_dtls .owner_name .name{font-size: 14px;}
+    .live_orders_main .left_sidebar .owner_dtls .owner_name .designation{font-size: 12px;}
+    .live_orders_main .left_sidebar .owner_dtls .owner_img img{width: 40px; height: 40px;}
+    .live_orders_main .left_sidebar .owner_dtls .owner_img{margin-right: 10px;}
+    .live_orders_main .left_sidebar .owner_dtls{padding: 15px 0 15px 12px; background-size: 18px;}
+}
+
+@media screen and (max-width: 1199px){
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs{width: 100%; overflow-x: auto; display: flex;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one{min-width: 150px;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one.active::after{bottom: 0;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{width: 100%; padding: 15px 15px 15px 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper{margin-top: 25px; flex-wrap: wrap;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details{width: 100%; margin-top: 30px; padding: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head{padding-bottom: 12px; margin-bottom: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .instruction{
+        padding-left: 12px; padding-right: 12px; padding-top: 6px; margin-bottom: 15px;
+    }
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status{display: block;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status > div{width: 100% !important; justify-content: center; padding: 0 !important;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status{margin-top: 30px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by div.head{width: auto;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by .short_one{margin: 0px 20px !important;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status span{margin-top: 3px;}
+} 
+
+@media screen and (max-width: 992px){
+    .live_orders_main .main_content .content_titlebar .mobile_toggler{display: block; margin-right: 20px;}
+    .live_orders_main .left_sidebar{left: -221px;}
+    .live_orders_main .left_sidebar.opened{left: 0;}
+    .live_orders_main .main_content{width: 100%;}
+    .live_orders_main .main_content .content_titlebar{justify-content: unset; padding: 18px 15px; width: 100%;}
+    .live_orders_main .main_content .content_titlebar .search_bar{margin-left: auto;}
+    .live_orders_main .main_content .content_titlebar .heading h2 {font-size: 20px;}
+    .live_orders_main .main_content .content_titlebar .heading h2::after {width: 8px;height: 8px;right: -20px;top: 6px; border-bottom-width: 2px; border-right-width: 2px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status{margin-top: 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status{margin-top: 23px;}
+}
+
+@media screen and (max-width: 767px){
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one {
+        width: 50%;
+        padding-top: 15px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border-radius: 8px;
+        padding-bottom: 15px;
+        justify-content: flex-start;
+        margin: 5px 0;
+    }
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs {
+        width: 100%;
+        overflow-x: unset;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one.active{background: #f0f0f0;}
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one.active::after{display: none;}
+    .live_orders_main .main_content .main_cont_wrapper{padding: 20px 12px;}
+    .live_orders_main .left_sidebar .brand_logo{margin-bottom: 20px;}
+    .live_orders_main .left_sidebar .main_menus ul li a{padding: 12px 10px 12px 23px;}
+}
+
+@media screen and (max-width: 576px){
+    .live_orders_main .main_content .content_titlebar{flex-wrap: wrap;}
+    .live_orders_main .main_content .content_titlebar .search_bar, .live_orders_main .main_content .content_titlebar .search_bar input{width: 100%;}
+    .live_orders_main .main_content .content_titlebar .search_bar{margin-top: 20px;}
+    .live_orders_main .main_content .content_titlebar .heading h2 {font-size: 18px;}
+    .live_orders_main .main_content .content_titlebar .heading h2::after {width: 6px;height: 6px;right: -16px;top: 5px;}
+    .live_orders_main .main_content .content_titlebar .mobile_toggler span {width: 22px;height: 3px;border-radius: 42px;background: #22ad7e;margin: 3px 0;}
+    .live_orders_main .main_content .content_titlebar .mobile_toggler{margin-right: 16px;}
+    .live_orders_main .main_content .main_cont_wrapper{margin-top: 112px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .all_outlets{padding: 14px 14px 14px 19px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject{flex-wrap: wrap; justify-content: center; text-align: center; padding-top: 25px; padding-bottom: 25px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject h4{width: 100%; margin-bottom: 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject a.reject{margin-left: 0; margin-right: 10px; width: 120px; height: 45px; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f0f0f0;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_accept_reject a.acceptit{height: 45px; width: 120px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions a{width: calc(50% - 6px); margin-right: 0 !important; margin-bottom: 12px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions{flex-wrap: wrap; justify-content: space-between;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc{display: block;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc .order_desc_one{text-align: left !important;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_short_desc .order_desc_one:not(:last-child){margin-bottom: 20px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table td, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr th:last-child{
+        font-size: 14px;
+    }
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .outlet_img img{width: 45px; height: 45px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .order_id h3{font-size: 16px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head .status .whatstatus, .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_payment .payment_table tfoot tr .payment_status button{
+        width: auto; height: 30px;
+        padding: 5px 20px; font-size: 12px;
+    }
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .order_actions{margin-bottom: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .order_info_wrapper .outlet_details .top_head{flex-wrap: wrap;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status span{width: 15px;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by{overflow: auto; justify-content: flex-start; padding-bottom: 12px !important;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .short_by .short_one{min-width: max-content; margin-left: 0 !important; margin-right: 20px !important;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status{justify-content: flex-start;}
+    .live_orders_main .main_content .main_cont_wrapper .shorting_order_status .status{margin-top: 10px;}
+}
+
+@media screen and (max-width: 360px){
+    .live_orders_main .main_content .main_cont_wrapper .sub_tabs .tab_one {
+        width: 100%;
+        margin: 3px 0;
+    }
+}
